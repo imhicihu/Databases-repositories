@@ -11,3 +11,15 @@
 * All of them are in `.csv UTF-8` format to minimize incompatibilities
 * Find them in the [Downloads](/downloads/) folder
 ![databases.png](images/1522092279-repository.jpg)
+
+### Code of Conduct
+
+* Please, check our [Code of Conduct](code_of_conduct.md)
+
+### Legal
+
+* All trademarks are the property of their respective owners.
+
+### Licence
+
+* The content of this project itself is licensed under the ![MIT Licence](images/MIT_License.png)

@@ -1,7 +1,11 @@
+<p align="center">
+  <img src="images/n04hpiWkToGWOzmwwVvSFw.webp?raw=true" alt="Logotipo de Databases-repositories"/>
+</p>
+
 ![archived](images/3278295154-status_archived.png)
-![stability-work_in_progress](images/477405737-stability_work_in_progress.png)
 ![internaluse-green](images/3847436881-internal_use_stable.png)
 
+---
 
 ## Rationale
 

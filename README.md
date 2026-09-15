@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/n04hpiWkToGWOzmwwVvSFw.webp?raw=true" alt="Logotipo de Databases-repositories"/>
+  <img src="images/a-three-dimensional-cube-sits-centrally-_lXNwtVfwQ6isEx66Twe_pQ_MsXdhtKnQhyT7cxQH_6NBQ.png?raw=true" alt="Logotipo de Databases-repositories"/>
 </p>
 
 ![archived](images/3278295154-status_archived.png)
